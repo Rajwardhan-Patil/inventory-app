@@ -1,0 +1,2 @@
+SalesInvoiceNo,CustId,CustName,ProdId,ProdName,Description,Rate,GSTPercentage,GSTAmount,FinalAmount,DateOfInvoice
+5001,1,Raj,101,Laptop,Gaming laptop,70000,18,12600,82600,2025-07-03
